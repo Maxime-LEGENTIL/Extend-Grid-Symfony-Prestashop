@@ -1,1 +1,1 @@
-# Extend-Grid-Symfony-Prestashop
+# Exemple de module Prestashop 8.x afin d'étendre les grilles dans le BackOffice sur les controllers Symfony
